@@ -4,7 +4,7 @@ import os
 os.system("git add .")
 
 # Etapa 2: pedir mensagem do commit
-mensagem = input("Digite a mensagem do commit: ")
+mensagem = input("oi povo ")
 
 # Etapa 3: git commit
 os.system(f'git commit -m "{mensagem}"')
